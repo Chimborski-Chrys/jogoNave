@@ -298,7 +298,7 @@ function start() { // Inicio da função start()
 
 			if (fimdejogo == false) {
 
-				$("#fundoGame").append("<div id=inimigo2></div");
+				$("#fundoGame").append("<div id=inimigo2  class='anima5'></div");
 			}
 		}
 	}
